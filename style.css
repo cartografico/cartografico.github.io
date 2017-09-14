@@ -333,14 +333,14 @@ a {
 a:hover,
 a:active {
 	outline: 0;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:focus {
 	outline: thin dotted;
 	outline: 5px auto -webkit-focus-ring-color;
 	outline-offset: -2px;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 /* Blockquotes */
@@ -1755,7 +1755,7 @@ a.custom-logo-link img {
 	opacity: 1;
 	color: #585858;
 	font-weight: bold;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 .widget_rss cite {
@@ -2387,9 +2387,10 @@ a.custom-logo-link img {
 .page-template-portfolio .entry-content,
 .page-template-portfolio .comments-area {
 	width: 100%;
-	max-width: 480px;
+	max-width: 550px;
 	margin-right: auto;
 	margin-left: auto;
+    font-family: 'Arimo';
 }
 
 .search .content-area .search-field {
@@ -2786,6 +2787,7 @@ input[type='submit'].wpcf7-submit {
 	.page-template-portfolio .entry-content,
 	.page-template-portfolio .comments-area {
 		margin-left: 0;
+        font-family: 
 	}
 
 	.error404 .content-area {
