@@ -2365,7 +2365,7 @@ a.custom-logo-link img {
 .single-portfolio .project-excerpt,
 .single-jetpack-portfolio .comments-area,
 .single-jetpack-portfolio .project-excerpt {
-	max-width: 480px;
+	max-width: 550px;
 }
 
 .single-portfolio .pagination,
