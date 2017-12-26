@@ -43,7 +43,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 
 html {
 	box-sizing: border-box;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 16px;
 
 	-webkit-text-size-adjust: 100%;
@@ -451,7 +451,7 @@ pre {
 	padding: 1.5em;
 	color: #f0f0f0;
 	background-color: #1e1e1e;
-	font-family: Courier, 'Andale Mono', 'DejaVu Sans Mono', monospace;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	word-wrap: initial;
 }
@@ -464,7 +464,7 @@ var {
 	padding: 3px 5px;
 	border-radius: 3px;
 	background-color: rgba(0, 0, 0, 0.05);
-	font-family: Courier, 'Andale Mono', 'DejaVu Sans Mono', monospace;
+	font-family: 'Open Sans', sans-serif;
 	white-space: nowrap;
 }
 
@@ -724,7 +724,7 @@ img {
 	display: inline-block;
 	width: 1em;
 	margin: 0;
-	font-family: 'fontello';
+	font-family: 'Open Sans', sans-serif;
 	font-size: 100%;
 	font-weight: normal;
 	font-style: normal;
@@ -1027,12 +1027,13 @@ a.custom-logo-link img {
 	margin-top: 0;
 	margin-bottom: 0;
 	padding-top: 1em;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 27px;
 	font-size: 1.8rem;
 	font-weight: bold;
 	line-height: 24px;
 	line-height: 1.5rem;
+    color: #f74c48;
 }
 
 .site-title a {
@@ -2390,7 +2391,7 @@ a.custom-logo-link img {
 	max-width: 550px;
 	margin-right: auto;
 	margin-left: auto;
-    font-family: 'Arimo';
+    font-family: 'Open Sans', sans-serif;
 }
 
 .search .content-area .search-field {
@@ -2787,7 +2788,7 @@ input[type='submit'].wpcf7-submit {
 	.page-template-portfolio .entry-content,
 	.page-template-portfolio .comments-area {
 		margin-left: 0;
-        font-family: 
+        font-family: 'Open Sans', sans-serif;
 	}
 
 	.error404 .content-area {
